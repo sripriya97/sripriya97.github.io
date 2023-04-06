@@ -1801,6 +1801,9 @@ input, select, textarea {
 		ul li {
 			padding-left: 0.5em;
 		}
+		ul li.socials{
+			list-style-type: none 
+		}
 
 	ol {
 		list-style: decimal;
